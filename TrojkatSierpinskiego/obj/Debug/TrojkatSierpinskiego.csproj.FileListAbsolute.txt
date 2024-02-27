@@ -1,0 +1,11 @@
+E:\Szkola\VSCommunity\TrojkatSierpinskiego\TrojkatSierpinskiego\bin\Debug\TrojkatSierpinskiego.exe.config
+E:\Szkola\VSCommunity\TrojkatSierpinskiego\TrojkatSierpinskiego\bin\Debug\TrojkatSierpinskiego.exe
+E:\Szkola\VSCommunity\TrojkatSierpinskiego\TrojkatSierpinskiego\bin\Debug\TrojkatSierpinskiego.pdb
+E:\Szkola\VSCommunity\TrojkatSierpinskiego\TrojkatSierpinskiego\obj\Debug\TrojkatSierpinskiego.csproj.AssemblyReference.cache
+E:\Szkola\VSCommunity\TrojkatSierpinskiego\TrojkatSierpinskiego\obj\Debug\TrojkatSierpinskiego.Form1.resources
+E:\Szkola\VSCommunity\TrojkatSierpinskiego\TrojkatSierpinskiego\obj\Debug\TrojkatSierpinskiego.Properties.Resources.resources
+E:\Szkola\VSCommunity\TrojkatSierpinskiego\TrojkatSierpinskiego\obj\Debug\TrojkatSierpinskiego.csproj.GenerateResource.cache
+E:\Szkola\VSCommunity\TrojkatSierpinskiego\TrojkatSierpinskiego\obj\Debug\TrojkatSierpinskiego.csproj.CoreCompileInputs.cache
+E:\Szkola\VSCommunity\TrojkatSierpinskiego\TrojkatSierpinskiego\obj\Debug\TrojkatSierpinskiego.exe
+E:\Szkola\VSCommunity\TrojkatSierpinskiego\TrojkatSierpinskiego\obj\Debug\TrojkatSierpinskiego.pdb
+E:\Szkola\VSCommunity\TrojkatSierpinskiego\TrojkatSierpinskiego\bin\Debug\TrojkatSierpinskiego.xml

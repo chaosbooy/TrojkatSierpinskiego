@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TrojkatSierpinskiego</name>
+    </assembly>
+    <members>
+        <member name="F:TrojkatSierpinskiego.Form1.layers">
+            <summary>
+            variables needed for the program to work: number of triangle layers, offset from application bounds 
+            </summary>
+        </member>
+        <member name="M:TrojkatSierpinskiego.Form1.Suffer(System.Object,System.EventArgs)">
+            <summary>
+            Starts the whole process of drawing
+            </summary>
+            <remarks>
+            based on numericUpDown1 having the number of white triangles and SufferSize having the length of one 
+            side of the triangle drawing a big black triangle first for the background and then the white 
+            triangles 3^[layers] times where each layer is 4 times smaller than the other
+            </remarks>
+        </member>
+        <member name="M:TrojkatSierpinskiego.Form1.CreateWhiteOnes(System.Int32,System.Int32,System.Drawing.Point,System.Int32)">
+            <summary>
+            drawing white triangles in recursion
+            </summary>
+            <param name="width">width of the drawn triangle</param>
+            <param name="height">height of the drawn triangle</param>
+            <param name="start"> the most right-bottom point</param>
+            <param name="it"> number of iteration</param>
+            <remarks>
+            draws an upside down white triangle in the center of the black triangle in its background
+            then if it doesnt go beyond the iteration it creates its clones it recreates itself 3 times while positioning the clones so that
+            they have their own black triangle background
+            </remarks>
+        </member>
+        <member name="F:TrojkatSierpinskiego.Form1.components">
+            <summary>
+            Wymagana zmienna projektanta.
+            </summary>
+        </member>
+        <member name="M:TrojkatSierpinskiego.Form1.Dispose(System.Boolean)">
+            <summary>
+            Wyczyść wszystkie używane zasoby.
+            </summary>
+            <param name="disposing">prawda, jeżeli zarządzane zasoby powinny zostać zlikwidowane; Fałsz w przeciwnym wypadku.</param>
+        </member>
+        <member name="M:TrojkatSierpinskiego.Form1.InitializeComponent">
+            <summary>
+            Metoda wymagana do obsługi projektanta — nie należy modyfikować
+            jej zawartości w edytorze kodu.
+            </summary>
+        </member>
+        <member name="M:TrojkatSierpinskiego.Program.Main">
+            <summary>
+            Główny punkt wejścia dla aplikacji.
+            </summary>
+        </member>
+        <member name="T:TrojkatSierpinskiego.Properties.Resources">
+            <summary>
+              Silnie typizowana klasa zasobów do wyszukiwania zlokalizowanych ciągów itd.
+            </summary>
+        </member>
+        <member name="P:TrojkatSierpinskiego.Properties.Resources.ResourceManager">
+            <summary>
+              Zwraca buforowane wystąpienie składnika ResourceManager używane przez tę klasę.
+            </summary>
+        </member>
+        <member name="P:TrojkatSierpinskiego.Properties.Resources.Culture">
+            <summary>
+              Przesłania właściwość CurrentUICulture bieżącego wątku dla wszystkich
+              przypadków przeszukiwania zasobów za pomocą tej silnie typizowanej klasy zasobów.
+            </summary>
+        </member>
+    </members>
+</doc>
