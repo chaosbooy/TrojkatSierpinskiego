@@ -4,7 +4,7 @@ Program zrobiony używając C# windows forms tworzący trójkąt Sierpińskiego
 
 ## Demo
 
-[Demonstration image] (https://github.com/chaosbooy/TrojkatSierpinskiego/Assets/Images/Demo.png)
+![Demonstration image](https://github.com/chaosbooy/TrojkatSierpinskiego/blob/main/Assets/Images/Demo.png)
 
 ## Dokumentacja
 
