@@ -8,7 +8,4 @@ Program zrobiony używając C# windows forms tworzący trójkąt Sierpińskiego
 
 ## Dokumentacja
 
-[Dokumentacja Funkcji w XML](https://github.com/chaosbooy/TrojkatSierpinskiego/TrojkatSierpinskiego/blob/main/bin/Debug/TrojkatSierpinskiego.xml)
-
-
-
+[Dokumentacja Funkcji w XML](https://github.com/chaosbooy/TrojkatSierpinskiego/blob/main/TrojkatSierpinskiego/bin/Debug/TrojkatSierpinskiego.xml)
